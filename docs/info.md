@@ -9,12 +9,12 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Just an example project to setup working env for tt09
 
 ## How to test
 
-Explain how to use your project
+8bit Adder. in and io are input, out are output
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+None
