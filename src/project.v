@@ -5,7 +5,7 @@
 
 `default_nettype none
 
-module tt09_um_rishabhrkaushik_example01 (
+module tt_um_rishabhrkaushik_example01_tt09 (
     input  wire [7:0] ui_in,    // Dedicated inputs
     output wire [7:0] uo_out,   // Dedicated outputs
     input  wire [7:0] uio_in,   // IOs: Input path
